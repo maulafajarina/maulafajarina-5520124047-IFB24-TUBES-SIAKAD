@@ -1,0 +1,89 @@
+/* BACKGROUND */
+.content-wrapper{
+    background: #f4f7fc !important;
+}
+
+/* SIDEBAR */
+.main-sidebar{
+    background: #1E3A5F !important;
+}
+
+.brand-link{
+    background: #17304d !important;
+    color: white !important;
+}
+
+.nav-sidebar .nav-link{
+    border-radius: 10px;
+    margin: 5px;
+}
+
+.nav-sidebar .nav-link.active{
+    background: #2563EB !important;
+    color: white !important;
+}
+
+/* CARD */
+.card{
+    border-radius: 15px !important;
+    box-shadow: 0 4px 15px rgba(0,0,0,.08);
+    border: none !important;
+}
+
+/* CARD HEADER */
+.card-header{
+    background: white !important;
+    font-weight: bold;
+}
+
+/* TABLE */
+.table thead{
+    background: #1E3A5F !important;
+    color: white !important;
+}
+
+.table-hover tbody tr:hover{
+    background: #eef4ff !important;
+}
+
+/* BUTTON */
+.btn-primary{
+    background: #2563EB !important;
+    border: none !important;
+}
+
+.btn-success{
+    background: #10B981 !important;
+    border: none !important;
+}
+
+.btn-warning{
+    border: none !important;
+}
+
+.btn-danger{
+    border: none !important;
+}
+
+/* BADGE */
+.badge-info{
+    background: #2563EB !important;
+}
+
+.badge-success{
+    background: #10B981 !important;
+}
+
+/* TITLE */
+.content-header h1{
+    font-weight: 700;
+    color: #1E3A5F;
+}
+
+/* SMALL BOX */
+.small-box{
+    border-radius: 15px !important;
+    box-shadow: 0 5px 20px rgba(0,0,0,.1);
+}
+
+@import "tailwindcss";
