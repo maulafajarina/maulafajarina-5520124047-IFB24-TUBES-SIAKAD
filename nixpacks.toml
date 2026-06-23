@@ -1,0 +1,5 @@
+[providers.php]
+date_timezone = "Asia/Jakarta"
+
+[start]
+cmd = "apachectl -D FOREGROUND -c \"DocumentRoot /app/public\""
