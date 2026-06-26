@@ -1,32 +1,32 @@
-# Tugas Besar SIAKAD - IFB2024 - 5520124059 - Rafi ladzuardi
+# Tugas Besar SIAKAD - IFB24 - 5520124047 - Maulafajarina
 
-##  Link Aplikasi (Sudah Online)
+## Link Aplikasi (Sudah Online)
 Proyek ini sudah sukses di-hosting dan bisa langsung kamu akses secara publik lewat link di bawah ini:
- **[SIAKAD Online - Railway](https://tubes-siakad-ifb2024-5520124059-rafiladzuardi-production.up.railway.app/)**
+**[SIAKAD Online - Railway](https://maulafajarina-5520124047-ifb24-tubes-siakad-production-cc63.up.railway.app/)**
 
->  **Udah Nyaman di HP:** Semua halaman di dalam aplikasi ini sudah diperbaiki layout-nya. Tampilan dijamin aman, rapi, responsif, dan tidak meluber kalau dibuka lewat browser handphone.
+> 📱 **Udah Nyaman di HP:** Semua halaman di dalam aplikasi ini sudah diperbaiki layout-nya. Tampilan dijamin aman, rapi, responsif, dan tidak meluber kalau dibuka lewat browser handphone.
 
 ---
 
-##  Akun untuk Coba Login (Demo Accounts)
+## Akun untuk Coba Login (Demo Accounts)
 Biar tidak ribet buat akun baru saat memeriksa, silakan pakai akun uji coba di bawah ini untuk melihat fitur masing-masing role:
 
-###  1. Akun Admin / Dosen
+### 1. Akun Admin / Dosen
 * **Email:** `admin@gmail.com`
 * **Password:** `admin123`
 
-###  2. Akun Mahasiswa
-* **Email:** `rafiladzuardi@gmail.com`
+### 2. Akun Mahasiswa
+* **Email:** `maulafajarina766@gmail.com`
 * **Password:** `12345678`
 
 ---
 
-##  A. Tentang Aplikasi Ini
+## A. Tentang Aplikasi Ini
 **SIAKAD (Sistem Informasi Akademik)** ini adalah sebuah platform web yang dibuat khusus untuk mempermudah urusan data perkuliahan di kampus. Mulai dari mengelola data dasar (dosen, mahasiswa, mata kuliah), mengatur jadwal belajar-mengajar harian, sampai ke proses mahasiswa mengambil mata kuliah pilihannya (KRS) secara online, semuanya sudah terintegrasi dengan rapi di sini.
 
 ---
 
-##  B. Menu & Kegunaan Tiap Halaman
+## B. Menu & Kegunaan Tiap Halaman
 
 1. **Halaman Utama (Landing Page)**
    Tempat awal saat pertama kali membuka web. Isinya info sekilas tentang kampus dan ada tombol khusus untuk mengarahkan pengguna ke halaman login.
@@ -51,9 +51,9 @@ Biar tidak ribet buat akun baru saat memeriksa, silakan pakai akun uji coba di b
 
 ---
 
-##  C. Dokumentasi (Screenshots)
+## C. Dokumentasi (Screenshots)
 
-###  Bagian Admin
+### Bagian Admin
 
 #### 1. Dashboard Admin
 ![Dashboard Admin](screenshots/bagian_admin/dashboard.png)
@@ -75,10 +75,13 @@ Biar tidak ribet buat akun baru saat memeriksa, silakan pakai akun uji coba di b
 
 ---
 
-###  Bagian Mahasiswa
+### 🎓 Bagian Mahasiswa
 
 #### 1. Halaman Jadwal Kuliah
 ![Jadwal Kuliah](screenshots/bagian_mahasiswa/jadwal_kuliah.png)
 
 #### 2. Kartu Rencana Studi (KRS)
 ![KRS Mahasiswa](screenshots/bagian_mahasiswa/krs.png)
+
+---
+© 2026 SIAKAD IFB. All Rights Reserved.
